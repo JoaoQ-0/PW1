@@ -1,2 +1,1 @@
-# PW1
-nossa primeiro repositório
+#AMS 1
